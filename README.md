@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **ashishdandade326@gmail.com**
+- 📫 How to reach me **ashishdandade6@gmail.com**
 
 - Porfolio  **https://ashishdandade.github.io/ashishportfolio/**
 
