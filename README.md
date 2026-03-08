@@ -1,8 +1,4 @@
-# Create the README.md file using pypandoc as required
 
-import pypandoc
-
-md_content = """
 <h1 align="center">Hi 👋, I'm Ashish Dandade</h1>
 
 <h3 align="center">
@@ -153,10 +149,3 @@ https://github.com/ashishdandade
 ---
 
 ⭐ Always interested in building scalable systems, distributed architectures, and high-performance backend platforms.
-"""
-
-output_path = "/mnt/data/README.md"
-
-pypandoc.convert_text(md_content, 'md', format='md', outputfile=output_path, extra_args=['--standalone'])
-
-output_path
